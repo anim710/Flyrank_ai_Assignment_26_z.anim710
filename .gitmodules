@@ -1,0 +1,18 @@
+[submodule "task-api"]
+	path = task-api
+	url = https://github.com/anim710/task-api_flyrankai_z.anim710_a1.git
+[submodule "Task-api-2"]
+	path = Task-api-2
+	url = https://github.com/anim710/Flyrank_Task-2_z.anim710.git
+[submodule "Assignment-3"]
+	path = Assignment-3
+	url = https://github.com/anim710/Task_Api-3_Flyrank_z.anim710.git
+[submodule "Assignment-4"]
+	path = Assignment-4
+	url = https://github.com/anim710/Taskapi_flyrank_z.anim710.git
+[submodule "Assignment-5"]
+	path = Assignment-5
+	url = https://github.com/anim710/Taskapi_flyrank_a5_z.anim710.git
+[submodule "Assignment-6/flyrank-llm-api"]
+	path = Assignment-6/flyrank-llm-api
+	url = https://github.com/anim710/flyrankai_a6_z.anim710.git
